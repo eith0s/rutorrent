@@ -1,0 +1,1 @@
+So now Google [deprecate](http://google-opensource.blogspot.com/2013/05/a-change-to-google-code-download-service.html) downloads page, i move it to the [BinTray](https://bintray.com/novik65/generic/ruTorrent).
